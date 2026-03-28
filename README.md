@@ -1,25 +1,24 @@
-# Physics-Informed AI Digital Twin
+# Physics-Informed AI Digital Twin System
 
-This project demonstrates a Digital Twin system using Physics-Informed Neural Networks.
+## ğŸ“Œ Overview
+This project implements a Physics-Informed AI Digital Twin system that simulates real-world physical processes and predicts system behavior using machine learning and mathematical models.
 
-Features
+The system combines:
+- Physical modeling (heat equation, simulation)
+- AI models (PINN - Physics-Informed Neural Networks)
+- Real-time API services
+- Visualization dashboard
 
-- Physical simulation
-- AI prediction
-- Real-time monitoring
-- API service
-- Dashboard
+---
 
-Architecture
+## ğŸ§  Key Concept
 
-IoT Sensors
-     «
-Physics Model
-     «
-PINN AI Model
-     «
-Digital Twin Simulator
-     «
-Flask API
-     «
-Dashboard
+A Digital Twin is a virtual representation of a real-world system.
+
+This project enhances it with:
+- Physics-based simulation
+- AI-based prediction
+
+---
+
+## ğŸ—ï¸ Architecture
